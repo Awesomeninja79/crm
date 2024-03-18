@@ -5,6 +5,12 @@
     "Roboto Mono", "Oxygen Mono", "Ubuntu Monospace", "Source Code Pro",
     "Fira Mono", "Droid Sans Mono", "Courier New", monospace;
 
+  --primaryColor: #BF1A38;
+  --titleColor: #3A3A3A;
+  --greyColor: #898989;
+  --lightGreyColor: #B2B2B2;
+  --borderGreyColor: #D2D2D2;
+
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;

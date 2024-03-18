@@ -1,0 +1,46 @@
+#loginPage {
+    background: url('/login-bg.jpg') no-repeat center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.login-inner {
+    width: 75%;
+}
+
+.login-input-wrap {
+    position: relative;
+}
+
+.login-input-wrap .form-label {
+    color: var(--titleColor);
+    font-size: 14px;
+    font-weight: 500;
+    margin: 0;
+    position: absolute;
+    left: 60px;
+    top: 5px;
+}
+
+.login-input-wrap .form-control {
+    color: var(--greyColor);
+    border-radius: 5px;
+    border: 1px solid var(--borderGreyColor);
+    font-size: 14px;
+    font-weight: 400;
+    padding-left: 60px;
+    height: 60px;
+    padding-top: 24px;
+    padding-right: 20px;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+
+
+
+
+
+
+
+
